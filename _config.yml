@@ -60,7 +60,7 @@ social-network-links:
 #  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
-   linkedin: Mina Miller
+  linkedin: Mina Miller
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -300,4 +300,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
